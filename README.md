@@ -1,13 +1,13 @@
 # DevBuddy
 a mod that aids in helping others create their own mod!
 
-#Commands:
+# Commands:
 
 help: Displays a list of available commands.
 clear: Clears the log messages.
 log <message>: Adds a custom message to the log.
 
-#Features:
+# Features:
 
 Restart (Steam): Restarts the game through Steam.
 Reload Scene: Reloads the current scene.
@@ -19,7 +19,7 @@ Log Message Handling: Displays log messages and allows clearing them.
 Toggle Gravity: Provides a button to toggle gravity in the scene.
 Installed Mods Page: Displays a list of installed BepInEx mods.
 
-#Additional Features:
+# Additional Features:
 
 GUI Toggle: You can toggle the visibility of the GUI using the F12 key.
 Scrollable Object Search Results: When there are more search results than can fit on the screen, you can scroll through them to see all objects.
