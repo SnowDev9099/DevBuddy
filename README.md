@@ -4,7 +4,9 @@ a mod that aids in helping others create their own mod!
 # Commands:
 
 help: Displays a list of available commands.
+
 clear: Clears the log messages.
+
 log <message>: Adds a custom message to the log.
 
 # Features:
